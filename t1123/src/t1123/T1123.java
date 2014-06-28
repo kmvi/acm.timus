@@ -7,7 +7,7 @@ import java.util.Scanner;
 
 public class T1123 {
 	
-	// добавляет к числу в строке s число n (n - цифра)
+	// РґРѕР±Р°РІР»СЏРµС‚ Рє С‡РёСЃР»Сѓ РІ СЃС‚СЂРѕРєРµ s С‡РёСЃР»Рѕ n (n - С†РёС„СЂР°)
 	static String add(String s, int n) {
 		char[] t = s.toCharArray();
 		

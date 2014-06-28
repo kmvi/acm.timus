@@ -22,20 +22,20 @@ public class T1197 {
 				int ver = ln.charAt(0) - 0x61;
 				int hor = ln.charAt(1) - 0x30 - 1;
 				
-				// вверх
+				// РІРІРµСЂС…
 				v[0] = ver+2; v[1] = ver+2;
 				h[0] = hor-1; h[1] = hor+1;
 				
 				
-				// вниз
+				// РІРЅРёР·
 				v[2] = ver-2; v[3] = ver-2;
 				h[2] = hor-1; h[3] = hor+1;
 				
-				// влево
+				// РІР»РµРІРѕ
 				v[4] = ver+1; v[5] = ver-1;
 				h[4] = hor-2; h[5] = hor-2;
 				
-				// вправо
+				// РІРїСЂР°РІРѕ
 				v[6] = ver+1; v[7] = ver-1;
 				h[6] = hor+2; h[7] = hor+2;
 				
