@@ -1,6 +1,5 @@
 // http://acm.timus.ru/problem.aspx?space=1&num=1496
 
-package t1496;
 
 import java.io.BufferedReader;
 import java.io.InputStreamReader;

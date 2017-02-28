@@ -1,6 +1,5 @@
 // http://acm.timus.ru/problem.aspx?space=1&num=1893
 
-package t1893;
 
 import java.io.PrintStream;
 import java.util.Scanner;

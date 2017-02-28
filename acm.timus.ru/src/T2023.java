@@ -1,4 +1,3 @@
-package t2023;
 
 import java.io.PrintStream;
 import java.util.Arrays;

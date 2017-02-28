@@ -1,4 +1,3 @@
-package t2012;
 
 import java.io.PrintStream;
 import java.util.Scanner;

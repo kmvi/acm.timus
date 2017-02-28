@@ -1,4 +1,3 @@
-package t1740;
 
 import java.io.PrintStream;
 import java.util.Locale;

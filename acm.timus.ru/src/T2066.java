@@ -1,4 +1,3 @@
-package t2066;
 
 import java.io.PrintStream;
 import java.util.Scanner;

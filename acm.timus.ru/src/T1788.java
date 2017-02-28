@@ -1,4 +1,3 @@
-package t1788;
 
 import java.io.PrintStream;
 import java.util.Arrays;

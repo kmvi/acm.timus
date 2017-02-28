@@ -3,7 +3,6 @@
 // не важно, какой знак ставить, поэтому все сводится к определению
 // четности или нечетности суммы 1..n
 
-package t1924;
 
 import java.io.PrintStream;
 import java.util.Scanner;

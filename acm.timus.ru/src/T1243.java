@@ -2,7 +2,6 @@
 
 // используется признак делимости Паскаля
 
-package t1243;
 
 import java.io.PrintStream;
 import java.util.Scanner;

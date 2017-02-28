@@ -1,6 +1,5 @@
 // http://acm.timus.ru/problem.aspx?space=1&num=1545
 
-package t1545;
 
 import java.io.BufferedReader;
 import java.io.InputStreamReader;

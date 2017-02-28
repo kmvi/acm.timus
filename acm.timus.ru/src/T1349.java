@@ -1,4 +1,3 @@
-package t1349;
 
 import java.io.PrintStream;
 import java.util.Scanner;

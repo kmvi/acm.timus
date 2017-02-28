@@ -1,7 +1,6 @@
 // странная задача, часть степеней есть уже в условии
 // вычислять на лету числа Мерсенна, понятно, нельзя )
 
-package t1352;
 
 import java.io.PrintStream;
 import java.util.Scanner;

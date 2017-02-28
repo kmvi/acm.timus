@@ -1,6 +1,5 @@
 // http://acm.timus.ru/problem.aspx?space=1&num=1196
 
-package t1196;
 
 import java.io.BufferedReader;
 import java.io.IOException;

@@ -3,7 +3,6 @@
 // варианты с регулярными выражениями и переборами массивов слишком медленные
 // поэтому используется стек
 
-package t1654;
 
 import java.io.PrintStream;
 import java.util.LinkedList;

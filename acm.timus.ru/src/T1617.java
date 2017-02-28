@@ -1,4 +1,3 @@
-package t1617;
 
 import java.io.PrintStream;
 import java.util.Hashtable;

@@ -2,7 +2,6 @@
 // часто встречающегося символа. я сначала думал, что нужно искать
 // как минимум два подряд идущих символа.
 
-package t1723;
 
 import java.io.PrintStream;
 import java.util.Scanner;

@@ -1,9 +1,8 @@
-package t2035;
 
 import java.io.PrintStream;
 import java.util.Scanner;
 
-public class T2023 {
+public class T2035 {
 
 	public static void main(String[] args) {
 		try {

@@ -1,4 +1,3 @@
-package t1777;
 
 import java.io.PrintStream;
 import java.util.Collections;

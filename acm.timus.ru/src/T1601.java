@@ -1,4 +1,3 @@
-package t1601;
 
 import java.io.PrintStream;
 import java.util.Scanner;

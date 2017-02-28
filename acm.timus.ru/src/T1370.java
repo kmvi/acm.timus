@@ -1,4 +1,3 @@
-package t1370;
 
 import java.io.BufferedReader;
 import java.io.InputStreamReader;

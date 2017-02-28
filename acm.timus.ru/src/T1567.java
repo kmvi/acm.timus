@@ -1,6 +1,5 @@
 // http://acm.timus.ru/problem.aspx?space=1&num=1567
 
-package t1567;
 
 import java.io.PrintStream;
 import java.util.Hashtable;

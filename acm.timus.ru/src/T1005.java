@@ -2,7 +2,6 @@
 
 // камней всего 20, поэтому решается тупо полным перебором
 
-package t1005;
 
 import java.io.PrintStream;
 import java.util.Scanner;

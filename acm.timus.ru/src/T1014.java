@@ -1,6 +1,5 @@
 // http://acm.timus.ru/problem.aspx?space=1&num=1014
 
-package t1014;
 
 import java.io.PrintStream;
 import java.util.Arrays;

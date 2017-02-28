@@ -1,4 +1,3 @@
-package t2005;
 
 import java.io.PrintStream;
 import java.util.Scanner;

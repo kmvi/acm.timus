@@ -1,4 +1,3 @@
-package t1563;
 
 import java.io.BufferedReader;
 import java.io.InputStreamReader;
